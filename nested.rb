@@ -83,12 +83,7 @@ def adding_matz
         }
      }
 
-#programmer_hash[:yukihiro_matsumoto][:known_for] = "Ruby"
-#programmer_hash[:yukihiro_matsumoto][:languages] = ["LISP", "C"]
 
-#binding.pry 
-
-#programmer_hash
     
 end
 
@@ -110,6 +105,7 @@ def changing_alan
      }
      
      programmer_hash[:alan_kay][:known_for] = "GUI"
+     programmer_hash
      
      
 end
